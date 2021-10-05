@@ -1,5 +1,5 @@
 # hello-world
-First repository
+# Print out something
 import random
 text = ['My name','Yang Liu','Taylor']
 msg = ramdom.choice(text)
